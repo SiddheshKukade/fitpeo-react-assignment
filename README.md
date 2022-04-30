@@ -1,4 +1,32 @@
+# Icons needed for the app 
+import PeopleIcon from '@mui/icons-material/People';
+import AccountCircleIcon from '@mui/icons-material/AccountCircle';
+import SearchIcon from '@mui/icons-material/Search';
+import SearchIcon from '@mui/icons-material/Search';
+import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
+
+import SpeedIcon from '@mui/icons-material/Speed';
+import InsightsIcon from '@mui/icons-material/Insights';
+import ShoppingBagIcon from '@mui/icons-material/ShoppingBag';
+import AccountBalanceIcon from '@mui/icons-material/AccountBalance';
+import InsertInvitationIcon from '@mui/icons-material/InsertInvitation';
+
+
+import PersonIcon from '@mui/icons-material/Person';
+import BookIcon from '@mui/icons-material/Book';
+import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
+import MailIcon from '@mui/icons-material/Mail';
+	
+import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
+import CircleIcon from '@mui/icons-material/Circle';
+import ChevronRightIcon from '@mui/icons-material/ChevronRight';
+
+import TrendingUpIcon from '@mui/icons-material/TrendingUp';
+import TrendingDownIcon from '@mui/icons-material/TrendingDown';
+import SettingsIcon from '@mui/icons-material/Settings';
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
